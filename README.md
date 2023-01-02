@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <!-- 사용하는 거 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&desc=im-young%20github&descSize=20&&descAlignY=70" />
 
-<img src="https://simpleicons.org/badge/python-#ECD53F?style=for-the-badge&logo=Python&logoColor=black">
 
 
 
