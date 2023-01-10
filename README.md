@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical) -->
 
 
-![main](https://user-images.githubusercontent.com/117331188/209515349-a25e8c95-d365-44fb-a54b-79a436c2b185.jpg)
+![깃헙 배너](https://user-images.githubusercontent.com/111354589/211505267-aedb12f0-b925-47cc-a69b-3dd80f88bfc0.png)
 ### Hi there 👋
