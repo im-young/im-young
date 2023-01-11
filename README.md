@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <!-- 검은색 띄
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical) -->
-
+<center> Hi there 👋 </center>
+<center> Welcome 😄</center>
 
 ![깃헙 배너](https://user-images.githubusercontent.com/111354589/211505267-aedb12f0-b925-47cc-a69b-3dd80f88bfc0.png)
-<center>### Hi there 👋 </center>
-<center>### Welcome 😄</center>
+
