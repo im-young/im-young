@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   <h1>Tech Stack </h1>
   
 </div>
+<div align=center>
   <h3> 🖥️Language </h3>
- <div align=center>
   <img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
  
   <img src="http://img.shields.io/badge/MySQL-4479A1?style=round&logo=MySQL&logoColor=white" />
@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
-  <h3> 🛠️Tools </h3>
 <div align=center>
+  <h3> 🛠️Tools </h3>
+
   <img src="http://img.shields.io/badge/PyCharm-000000?style=round&logo=PyCharm&logoColor=white" />
   <img src="http://img.shields.io/badge/VSCode-007ACC?style=round&logo=VisualStudioCode&logoColor=white" />
   <img src="http://img.shields.io/badge/Atom-66595C?style=round&logo=Atom&logoColor=white" />
@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
-  <h3> 📚Studying </h3>
 <div align=center>
+  <h3> 📚Studying </h3>
+
   
   <img src="http://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
