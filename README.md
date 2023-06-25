@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <details>
 <summary> Sub Skills </summary>
 <p></p>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=round&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=round&logo=bootstrap&logoColor=white">
   <img src="http://img.shields.io/badge/R-276DC3?style=round&logo=R&logoColor=white" />
   <img src="http://img.shields.io/badge/Selenium-43B02A?style=round&logo=Selenium&logoColor=white" />
 </details>
