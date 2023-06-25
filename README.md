@@ -24,27 +24,26 @@ Here are some ideas to get you started:
 
 <!-- 검은색 띄
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)-->
-<center> Hi there 👋 </center>
-<center> Welcome 😄</center>
+<!--<center> Hi there 👋 </center>
+<center> Welcome 😄</center>-->
 
 ![깃헙 배너](https://user-images.githubusercontent.com/111354589/211505267-aedb12f0-b925-47cc-a69b-3dd80f88bfc0.png)
-<!-- 표 만들기-->
-
-<!--|제목|내용|설명|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|-->
 
 
 <!--================================================================여기서부터 만들기===========================================================================-->
-<h2>🛠 Technical Skills</h2>
-
-
-![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
-![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
-![Flask]<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<div align=center>
+  
+  <h1>🟪 Tech Stack 🟪</h1>
+  
+</div>
+  <h3> ① Language</h3>
+ <div align=center>
+  <img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
+  <img src="http://img.shields.io/badge/R-276DC3?style=round&logo=R&logoColor=white" />
+  <img src="http://img.shields.io/badge/Django-092E20?style=round&logo=Django&logoColor=white" />
+  <img src="http://img.shields.io/badge/Selenium-43B02A?style=round&logo=Selenium&logoColor=white" />
+  <img src="http://img.shields.io/badge/MySQL-4479A1?style=round&logo=MySQL&logoColor=white" />
+</div>
 
 <br>
 
@@ -56,6 +55,27 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </details>
+
+  <h3>② Tools</h3>
+<div align=center>
+  <img src="http://img.shields.io/badge/PyCharm-000000?style=round&logo=PyCharm&logoColor=white" />
+  <img src="http://img.shields.io/badge/VSCode-007ACC?style=round&logo=VisualStudioCode&logoColor=white" />
+  <img src="http://img.shields.io/badge/Atom-66595C?style=round&logo=Atom&logoColor=white" />
+  <img src="http://img.shields.io/badge/Anaconda-44A833?style=round&logo=Anaconda&logoColor=white" />
+  <img src="http://img.shields.io/badge/Jupyter-F37626?style=round&logo=Jupyter&logoColor=white" />
+  <img src="http://img.shields.io/badge/CoLab-F9AB00?style=round&logo=googleColab&logoColor=white" />
+</div>
+
+  <h3>③ Studying</h3>
+<div align=center>
+  <img src="http://img.shields.io/badge/Java-007396?style=round&logo=Java&logoColor=white" />
+  <img src="http://img.shields.io/badge/Flask-000000?style=round&logo=Flask&logoColor=white" />
+  <img src="http://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=JavaScript&logoColor=white" />
+  <img src="http://img.shields.io/badge/Oracle-F80000?style=round&logo=Oracle&logoColor=white" />
+</div>
+<br>
+
+
 
 <div align=center>
 <p>📚Language</p>
