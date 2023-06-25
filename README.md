@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <!-- 검은색 띄
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)-->
+
 <!--<center> Hi there 👋 </center>
 <center> Welcome 😄</center>-->
 
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <!--================================================================여기서부터 만들기===========================================================================-->
 <div align=center>
   
-  <h1>🟪 Tech Stack 🟪</h1>
+  <h1>Tech Stack </h1>
   
 </div>
   <h3> ① Language</h3>
@@ -75,6 +76,8 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)-->
 
 
 <div align=center>
