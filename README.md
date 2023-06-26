@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<br>
+
 <div align=center>
   <h3> 🛠️Tools </h3>
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <img src="http://img.shields.io/badge/CoLab-F9AB00?style=round&logo=googleColab&logoColor=white" />
 </div>
 
-<br>
+
 <div align=center>
   <h3> 📚Studying </h3>
 
