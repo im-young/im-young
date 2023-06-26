@@ -73,6 +73,12 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+<div align=center>
+  
+  <h1> Project </h1>
+  
+</div>
+
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)-->
 
