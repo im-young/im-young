@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 <div align=center>
   <h3> 🖥️Language </h3>
   <img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
- 
+ mysql -> sql로 바꾸기
   <img src="http://img.shields.io/badge/MySQL-4479A1?style=round&logo=MySQL&logoColor=white" />
+ flask 삭제후 java로 바꾸기
   <img src="http://img.shields.io/badge/Flask-000000?style=round&logo=Flask&logoColor=white" />
 
 <details>
