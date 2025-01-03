@@ -30,7 +30,13 @@ Here are some ideas to get you started:
 <div align=center>
   
   <h1>Tech Stack </h1>
+  <details>
   <h3>수정 </h3>
+    - langage : python, java, sql // sub : javascript
+    - model tool ? : llm, 머신, 딥
+    - 백엔드? 웹? django, java-spring, flask, 
+    - 프로젝트 :링크
+  </details>
   
 </div>
 <details>
