@@ -30,9 +30,13 @@ Here are some ideas to get you started:
 <div align=center>
   
   <h1>Tech Stack </h1>
+  <h3>수정 </h3>
   
 </div>
+<details>
+<summary> 나중에 삭제하기 </summary>
 <div align=center>
+  
   <h3> 🖥️Language </h3>
   <img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
  mysql -> sql로 바꾸기
@@ -79,6 +83,7 @@ Here are some ideas to get you started:
   <h1> Project </h1>
   
 </div>
+</details>
 
 
 
